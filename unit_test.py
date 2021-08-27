@@ -1,2 +1,2 @@
 B= 12
-print("abcdefg")
+C = 1
